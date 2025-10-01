@@ -1,7 +1,7 @@
-/ace-editor-flow/target/
-/ace-editor-flow/frontend/generated/
-/ace-editor-flow-demo/target/
-/ace-editor-flow-demo/frontend/generated/
+/ace-editor-for-vaadin-flow/target/
+/ace-editor-for-vaadin-flow/frontend/generated/
+/ace-editor-for-vaadin-flow-demo/target/
+/ace-editor-for-vaadin-flow-demo/frontend/generated/
 
 .idea/
 .vscode/
