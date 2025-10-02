@@ -8,8 +8,8 @@ Apache License 2.0
 
 ## Requirements
 
-- **Java 21**
-- **Apache Maven 3.9+**
+- Java 21
+- Apache Maven 3.9+
 
 ## Installation
 
