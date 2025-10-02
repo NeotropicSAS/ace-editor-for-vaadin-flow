@@ -6,6 +6,11 @@ Adaptation of `ace-editor` web component for the Vaadin Flow platform
 
 Apache License 2.0
 
+## Requirements
+
+- **Java 21**
+- **Apache Maven 3.9+**
+
 ## Installation
 
 Use the following maven dependency in your project, provided that the component has already been installed in your local repository.
